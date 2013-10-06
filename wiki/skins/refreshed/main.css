@@ -163,6 +163,8 @@ body {
 		position: absolute;
 		height: 3em;
 		cursor: pointer;
+		padding-top: 0.5em;
+		padding-right: 1em;
 	}
 	#leftbar .shower {
 		left: 12em;
